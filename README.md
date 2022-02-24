@@ -2,20 +2,20 @@
 Bing dictionary(http://cn.bing.com/dict) in command line.
 
 ## Quickstart
-```shell
-$ git clone 'https://github.com/Shawyeok/bing-dict.git'
-$ sudo ln -sf "$PWD/bing-dict/dic.sh" /usr/local/bin/dic
-$ dic powerful
-powerful
-美['paʊrf(ə)l]，英['paʊə(r)f(ə)l]
+```powershell
+CommandType     Name                                               Version    Source
+-----------     ----                                               -------    ------
+Alias           trans -> TransApple.exe
 
-adv. 很；
-adj. 有权势的；有影响力的；强有力的；力量大的；
-网络释义： 强大的；有权的；有权威的；
-$ dic hello world
-hello world
-
-
-n. 世界你好；
-网络释义： 你好世界；别来无恙；哈罗；
+PS C:\Users\yf836760> trans hitori
+网络释义： 一个人；系都里；独自一人；
+PS C:\Users\yf836760> trans emo
+美['imo?]，英['i:m??]，n. 情感核摇滚乐； 网络释义： 情绪摇滚；情绪硬核(Emocore)；情绪核；
+PS C:\Users\yf836760> trans kurai
+网络释义： 仓井；九雷；克莱；
+PS C:\Users\yf836760> trans hello world
+n. 世界你好； 网络释义： 你好世界；别来无恙；哈罗；
+PS C:\Users\yf836760> trans hello girl
+na. 〈美口〉女电话接线员； 网络释义： 女话务员；女接线生；你好女孩；
 ```
+# forked from Shawyeok/bing-dict
