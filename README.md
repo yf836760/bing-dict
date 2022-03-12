@@ -2,15 +2,15 @@
 Bing dictionary(http://cn.bing.com/dict) in command line.
 
 ## Add Enviroment variables
-win + x
-choose > system
-chosse > advanced system setting
-choose > Enviroment variables
+win + x  
+choose > system   
+chosse > advanced system setting  
+choose > Enviroment variables  
 
 ## Add alias for current user
-input $profile in termianl 
-create that file
-edit like following: New-Item -Path Alias:t -Value TransApple.exe
+input $profile in termianl   
+create that file  
+edit like following: New-Item -Path Alias:t -Value TransApple.exe  
 
 
 ## Quickstart
